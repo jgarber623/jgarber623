@@ -1,0 +1,71 @@
+#!/usr/bin/env ruby
+
+require 'cgi'
+require 'json'
+require 'net/http'
+
+def npm_badge
+  params = {
+    color: '#cb3837',
+    label: 'npm Downloads',
+    logo: 'npm',
+    message: number_with_delimiter(get_stats_npm),
+    style: 'for-the-badge'
+  }
+
+  "[![npm Downloads](https://img.shields.io/static/v1?#{URI.encode_www_form(params)})](https://www.npmjs.com/~jgarber)"
+end
+
+def rubygems_badge
+  params = {
+    color: '#e9573f',
+    label: 'RubyGems Downloads',
+    logo: 'rubygems',
+    message: number_with_delimiter(get_stats_rubygems),
+    style: 'for-the-badge'
+  }
+
+  "[![RubyGems Downloads](https://img.shields.io/static/v1?#{URI.encode_www_form(params)})](https://rubygems.org/profiles/jgarber623)"
+end
+
+def get_stats_npm
+  count = 0
+
+  rsp = Net::HTTP.get(URI('https://api.npms.io/v2/search?q=author:jgarber'))
+
+  names = JSON.parse(rsp)['results'].map { |result| result['package']['name'] }
+
+  names.each do |name|
+    rsp = Net::HTTP.get(URI("https://api.npms.io/v2/package/#{CGI.escape(name)}"))
+
+    counts = JSON.parse(rsp)['collected']['npm']['downloads'].map { |item| item['count'].to_i }
+
+    count += counts.sum
+  end
+
+  count
+end
+
+def get_stats_rubygems
+  rsp = Net::HTTP.get(URI('https://rubygems.org/api/v1/owners/jgarber623/gems.json'))
+
+  counts = JSON.parse(rsp).map { |gem| gem['downloads'].to_i }
+
+  counts.sum
+end
+
+def number_with_delimiter(number)
+  number.to_s.reverse.scan(/\d{3}|.+/).join(',').reverse
+end
+
+def preamble
+  '### Hello, world! 👋🏻'
+end
+
+puts 'Generating README.md...'
+
+File.open('README.md', 'w') do |f|
+  f.write "#{preamble}\n\n#{rubygems_badge} #{npm_badge}\n"
+end
+
+puts '✨ README.md generated!'
