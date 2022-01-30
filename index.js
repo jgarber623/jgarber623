@@ -2,6 +2,7 @@
 
 const axios = require('axios');
 const commaNumber = require('comma-number');
+const fs = require('fs');
 const { Liquid } = require('liquidjs');
 
 const engine = new Liquid();
@@ -40,4 +41,4 @@ const rubygems_badge_count = async () => {
 
 engine
   .renderFile('README.md.liquid', { npm_badge_count, rubygems_badge_count })
-  .then(console.log);
+  .then(data => fs.writeFileSync('README.md', data));
