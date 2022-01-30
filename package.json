@@ -1,0 +1,14 @@
+{
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "build": "node .",
+    "test": "eslint ."
+  },
+  "devDependencies": {
+    "@jgarber/eslint-config": "*",
+    "axios": "*",
+    "comma-number": "*",
+    "liquidjs": "*"
+  }
+}

@@ -10,10 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - uses: actions/setup-node@v2
+        with:
+          node-version-file: ".nvmrc"
+          cache: npm
+      - run: npm ci
       - name: Build README.md
         run: |
-          bin/build
+          npm run build
           cat README.md
       - name: Commit and push changed files
         run: |
