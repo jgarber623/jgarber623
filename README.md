@@ -2,7 +2,7 @@
 
 ## 📊 Vanity Statistics
 
-[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=576%2C368&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=26%2C903&style=for-the-badge)](https://www.npmjs.com/~jgarber)
+[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=576%2C372&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=26%2C903&style=for-the-badge)](https://www.npmjs.com/~jgarber)
 
 ## 🛠 Projects
 
@@ -42,4 +42,4 @@ I’ve been involved with the [IndieWeb](https://indieweb.org) community since 2
 - [indieweb-endpoints-ruby](https://github.com/indieweb/indieweb-endpoints-ruby) – Discover a URL’s IndieAuth, Micropub, Microsub, and Webmention endpoints.
 - [MicroMicro](https://github.com/jgarber623/micromicro) – Extract microformats2-encoded data from HTML documents.
 - [webmention-cli](https://github.com/jgarber623/webmention-cli) – A command-line interface for Webmention written in Ruby.
-- [webmention-client-ruby](https://github.com/indieweb/webmention-client-ruby) – Send Webmention notifications.
+- [webmention-client-ruby](https://github.com/indieweb/webmention-client-ruby) – Send and verify Webmention notifications.
