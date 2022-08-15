@@ -14,9 +14,13 @@ const npm_badge_count = async () => {
     const packageNames = data.results.map(result => result.package.name);
 
     const packagesDownloadsCount = await Promise.all(packageNames.map(async packageName => {
-      const { data } = await axios.get(`https://api.npms.io/v2/package/${encodeURIComponent(packageName)}`);
+      try {
+        const { data } = await axios.get(`https://api.npms.io/v2/package/${encodeURIComponent(packageName)}`);
 
-      return data.collected.npm.downloads.map(download => download.count);
+        return data.collected.npm.downloads.map(download => download.count);
+      } catch (error) {
+        return [0];
+      }
     }));
 
     const totalDownloadsCount = packagesDownloadsCount.flat().reduce((accumulator, currentValue) => accumulator + currentValue);
