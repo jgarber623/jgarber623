@@ -23,7 +23,7 @@ const npm_badge_count = async () => {
 
     return commaNumber(totalDownloadsCount);
   } catch (error) {
-    console.log(error);
+    throw new Error(error);
   }
 };
 
@@ -35,7 +35,7 @@ const rubygems_badge_count = async () => {
 
     return commaNumber(totalDownloadsCount);
   } catch (error) {
-    console.log(error);
+    throw new Error(error);
   }
 };
 
