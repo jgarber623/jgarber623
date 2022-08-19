@@ -2,7 +2,7 @@
 
 ## 📊 Vanity Statistics
 
-[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=648%2C903&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
+[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=649%2C819&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
 
 ## 🛠 Projects
 
@@ -35,6 +35,7 @@ I’ve been involved with the [IndieWeb](https://indieweb.org) community since 2
 ### 🌎 Websites
 
 - [indieweb-endpoints.cc](https://github.com/jgarber623/indieweb-endpoints.cc) – Discover a URL’s IndieAuth, Micropub, Microsub, and Webmention endpoints.
+- [micromicro.cc](https://github.com/jgarber623/micromicro.cc) – Extract microformats2-encoded data from a webpage.
 - [rel-me.cc](https://github.com/jgarber623/rel-me.cc) – Discover a URL’s published `rel="me"` links.
 
 ### 💎 Ruby Gems
