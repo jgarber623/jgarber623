@@ -2,7 +2,7 @@
 
 ## 📊 Vanity Statistics
 
-[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=679%2C625&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
+[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=680%2C614&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
 
 ## 🛠 Projects
 
