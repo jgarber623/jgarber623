@@ -2,13 +2,14 @@
 
 ## 📊 Vanity Statistics
 
-[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=711%2C804&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
+[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=712%2C243&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
 
 ## 🛠 Projects
 
 ### 💎 Ruby Gems
 
 - [link-header-parser-ruby](https://github.com/jgarber623/link-header-parser-ruby) – Parse HTTP Link headers.
+- [nokogiri-html-ext](https://github.com/jgarber623/nokogiri-html-ext) – Extend Nokogiri with several useful HTML-centric features.
 - [sprockets-sass_embedded](https://github.com/jgarber623/sprockets-sass_embedded) – Process and compress Sass files using Sprockets 4 and Embedded Dart Sass.
 - [svgeez](https://github.com/jgarber623/svgeez) – Automatically generate an SVG sprite from a folder of SVG icons.
 
