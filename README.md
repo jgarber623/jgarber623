@@ -2,7 +2,7 @@
 
 ## 📊 Vanity Statistics
 
-[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=738%2C959&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
+[![RubyGems Downloads](https://img.shields.io/static/v1?color=%23e9573f&label=RubyGems+Downloads&logo=rubygems&message=739%2C380&style=for-the-badge)](https://rubygems.org/profiles/jgarber623) [![npm Downloads](https://img.shields.io/static/v1?color=%23cb3837&label=npm+Downloads&logo=npm&message=28%2C145&style=for-the-badge)](https://www.npmjs.com/~jgarber)
 
 ## 🛠 Projects
 
@@ -23,7 +23,7 @@
 
 ### 🌎 Websites
 
-- [docs.getchip.cc](https://github.com/jgarber623/docs.getchip.cc) – A mirror of the defunct Next Thing Co. documentation website.
+- [docs.getchip.cc](https://github.com/getchip-cc/docs.getchip.cc) – A mirror of the defunct Next Thing Co. documentation website.
 - [
 flight-manual.atom-editor.cc](https://github.com/jgarber623/flight-manual.atom-editor.cc) – A mirror of the defunct Atom documentation website.
 - [spaceholder.cc](https://github.com/jgarber623/spaceholder.cc) – A space-themed image placeholder service.
