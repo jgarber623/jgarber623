@@ -26,7 +26,7 @@ flight-manual.atom-editor.cc](https://github.com/jgarber623/flight-manual.atom-e
 
 ### 🧩 Reusable Configuration
 
-- **Node.js:** [browsersync-config](https://github.com/jgarber623/browsersync-config), [eslint-config](https://github.com/jgarber623/eslint-config), [stylelint-config](https://github.com/jgarber623/stylelint-config)
+- **Node.js:** [eslint-config](https://github.com/jgarber623/eslint-config), [stylelint-config](https://github.com/jgarber623/stylelint-config)
 - **Ruby:** [rubocop-configs](https://github.com/jgarber623/rubocop-configs)
 
 ## 🧡 IndieWeb Projects
