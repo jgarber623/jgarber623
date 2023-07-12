@@ -24,6 +24,11 @@
 flight-manual.atom-editor.cc](https://github.com/jgarber623/flight-manual.atom-editor.cc) – A mirror of the defunct Atom documentation website.
 - [spaceholder.cc](https://github.com/jgarber623/spaceholder.cc) – A space-themed image placeholder service.
 
+### 📡 Feeds
+
+- [nasa-apod]() – A fuller feed of content from NASA's Astronomy Picture of the Day website.
+- [nasa-iotd]() – A feed of content from NASA's Image of the Day website.
+
 ### 🧩 Reusable Configuration
 
 - **Node.js:** [eslint-config](https://github.com/jgarber623/eslint-config), [stylelint-config](https://github.com/jgarber623/stylelint-config)
