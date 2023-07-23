@@ -21,7 +21,7 @@
 
 - [docs.getchip.cc](https://github.com/getchip-cc/docs.getchip.cc) – A mirror of the defunct Next Thing Co. documentation website.
 - [
-flight-manual.atom-editor.cc](https://github.com/jgarber623/flight-manual.atom-editor.cc) – A mirror of the defunct Atom documentation website.
+flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.atom-editor.cc) – A mirror of the defunct Atom documentation website.
 - [spaceholder.cc](https://github.com/jgarber623/spaceholder.cc) – A space-themed image placeholder service.
 
 ### 📡 Feeds
