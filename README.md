@@ -26,8 +26,8 @@ flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.at
 
 ### 📡 Feeds
 
-- [nasa-apod]() – A fuller feed of content from NASA's Astronomy Picture of the Day website.
-- [nasa-iotd]() – A feed of content from NASA's Image of the Day website.
+- [nasa-apod](https://github.com/jgarber623/nasa-apod) – A fuller feed of content from NASA's Astronomy Picture of the Day website.
+- [nasa-iotd](https://github.com/jgarber623/nasa-iotd) – A feed of content from NASA's Image of the Day website.
 
 ### 🧩 Reusable Configuration
 
