@@ -15,6 +15,7 @@
 - [CashCash](https://github.com/jgarber623/CashCash) – A very small DOM library inspired by jQuery.
 - [eleventy-plugin-markdown](https://github.com/jgarber623/eleventy-plugin-markdown) – An Eleventy plugin for processing Markdown files with markdown-it.
 - [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – An Eleventy plugin for processing CSS files with PostCSS.
+- [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – An Eleventy plugin for processing SCSS files with Dart Sass.
 - [RadioRadio](https://github.com/jgarber623/RadioRadio) – A very small JavaScript PubSub library.
 - [RouterRouter](https://github.com/jgarber623/RouterRouter) – A very small JavaScript routing library extracted from Backbone’s Router.
 - [TemplateTemplate](https://github.com/jgarber623/TemplateTemplate) – A very small JavaScript `<template>` manipulation library.
