@@ -39,10 +39,11 @@ flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.at
 - [nasa-apod](https://github.com/jgarber623/nasa-apod) – A fuller feed of content from NASA's Astronomy Picture of the Day website.
 - [nasa-iotd](https://github.com/jgarber623/nasa-iotd) – A feed of content from NASA's Image of the Day website.
 
-### 🛠️ Reusable Configuration
+### 🛠️ Reusable Configuration and Templates
 
 - **Node.js:** [eslint-config](https://github.com/jgarber623/eslint-config), [stylelint-config](https://github.com/jgarber623/stylelint-config), [stylelint-config-scss](https://github.com/jgarber623/stylelint-config-scss)
 - **Ruby:** [rubocop-configs](https://github.com/jgarber623/rubocop-configs)
+- **Templates:** [eleventy-plugin-template](https://github.com/jgarber623/eleventy-plugin-template), [web-component-template](https://github.com/jgarber623/web-component-template)
 
 ## 🧡 IndieWeb Projects
 
