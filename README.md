@@ -11,8 +11,8 @@
 
 ### 🧩 Web Components
 
-- [<aria-collapsible>](https://github.com/jgarber623/aria-collapsible) – A dependency-free Web Component that generates progressively-enhanced collapsible regions using ARIA States and Properties.
-- [<bandcamp-player>](https://github.com/jgarber623/bandcamp-player) – A dependency-free Web Component that generates a Bandcamp embedded player.
+- [&lt;aria-collapsible&gt;](https://github.com/jgarber623/aria-collapsible) – A dependency-free Web Component that generates progressively-enhanced collapsible regions using ARIA States and Properties.
+- [&lt;bandcamp-player&gt;](https://github.com/jgarber623/bandcamp-player) – A dependency-free Web Component that generates a Bandcamp embedded player.
 
 ### 🎈 Eleventy
 
