@@ -9,13 +9,20 @@
 - [sprockets-sass_embedded](https://github.com/jgarber623/sprockets-sass_embedded) – Process and compress Sass files using Sprockets 4 and Embedded Dart Sass.
 - [svgeez](https://github.com/jgarber623/svgeez) – Automatically generate an SVG sprite from a folder of SVG icons.
 
-### 📦 JavaScript
+### 🧩 Web Components
 
-- [aria-collapsible](https://github.com/jgarber623/aria-collapsible) – Generate progressively-enhanced collapsible regions using ARIA States and Properties.
-- [CashCash](https://github.com/jgarber623/CashCash) – A very small DOM library inspired by jQuery.
+- [<aria-collapsible>](https://github.com/jgarber623/aria-collapsible) – A dependency-free Web Component that generates progressively-enhanced collapsible regions using ARIA States and Properties.
+- [<bandcamp-player>](https://github.com/jgarber623/bandcamp-player) – A dependency-free Web Component that generates a Bandcamp embedded player.
+
+### 🎈 Eleventy
+
 - [eleventy-plugin-markdown](https://github.com/jgarber623/eleventy-plugin-markdown) – An Eleventy plugin for processing Markdown files with markdown-it.
 - [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – An Eleventy plugin for processing CSS files with PostCSS.
 - [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – An Eleventy plugin for processing SCSS files with Dart Sass.
+
+### 📦 JavaScript
+
+- [CashCash](https://github.com/jgarber623/CashCash) – A very small DOM library inspired by jQuery.
 - [RadioRadio](https://github.com/jgarber623/RadioRadio) – A very small JavaScript PubSub library.
 - [RouterRouter](https://github.com/jgarber623/RouterRouter) – A very small JavaScript routing library extracted from Backbone’s Router.
 - [TemplateTemplate](https://github.com/jgarber623/TemplateTemplate) – A very small JavaScript `<template>` manipulation library.
@@ -32,7 +39,7 @@ flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.at
 - [nasa-apod](https://github.com/jgarber623/nasa-apod) – A fuller feed of content from NASA's Astronomy Picture of the Day website.
 - [nasa-iotd](https://github.com/jgarber623/nasa-iotd) – A feed of content from NASA's Image of the Day website.
 
-### 🧩 Reusable Configuration
+### 🛠️ Reusable Configuration
 
 - **Node.js:** [eslint-config](https://github.com/jgarber623/eslint-config), [stylelint-config](https://github.com/jgarber623/stylelint-config), [stylelint-config-scss](https://github.com/jgarber623/stylelint-config-scss)
 - **Ruby:** [rubocop-configs](https://github.com/jgarber623/rubocop-configs)
