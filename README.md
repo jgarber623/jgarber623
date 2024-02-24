@@ -11,14 +11,14 @@
 
 ### 🧩 Web Components
 
-- [&lt;aria-collapsible&gt;](https://github.com/jgarber623/aria-collapsible) – A dependency-free Web Component that generates progressively-enhanced collapsible regions using ARIA States and Properties.
-- [&lt;bandcamp-player&gt;](https://github.com/jgarber623/bandcamp-player) – A dependency-free Web Component that generates a Bandcamp embedded player.
+- [&lt;aria-collapsible&gt;](https://github.com/jgarber623/aria-collapsible) – Generate progressively-enhanced collapsible regions using ARIA States and Properties.
+- [&lt;bandcamp-player&gt;](https://github.com/jgarber623/bandcamp-player) – Generate a Bandcamp embedded player.
 
 ### 🎈 Eleventy
 
-- [eleventy-plugin-markdown](https://github.com/jgarber623/eleventy-plugin-markdown) – An Eleventy plugin for processing Markdown files with markdown-it.
-- [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – An Eleventy plugin for processing CSS files with PostCSS.
-- [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – An Eleventy plugin for processing SCSS files with Dart Sass.
+- [eleventy-plugin-markdown](https://github.com/jgarber623/eleventy-plugin-markdown) – Process Markdown files with markdown-it.
+- [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – Process CSS files with PostCSS.
+- [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – Process SCSS files with Dart Sass.
 
 ### 📦 JavaScript
 
