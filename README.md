@@ -16,6 +16,7 @@
 
 ### 🎈 Eleventy
 
+- [eleventy-plugin-liquid](https://github.com/jgarber623/eleventy-plugin-liquid) – Configure the LiquidJS template language.
 - [eleventy-plugin-markdown](https://github.com/jgarber623/eleventy-plugin-markdown) – Process Markdown files with markdown-it.
 - [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – Process CSS files with PostCSS.
 - [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – Process SCSS files with Dart Sass.
