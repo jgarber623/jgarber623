@@ -45,7 +45,6 @@ flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.at
 
 - **Node.js:** [eslint-config](https://github.com/jgarber623/eslint-config), [stylelint-config](https://github.com/jgarber623/stylelint-config), [stylelint-config-scss](https://github.com/jgarber623/stylelint-config-scss)
 - **Ruby:** [rubocop-configs](https://github.com/jgarber623/rubocop-configs)
-- **Templates:** [eleventy-plugin-template](https://github.com/jgarber623/eleventy-plugin-template), [web-component-template](https://github.com/jgarber623/web-component-template)
 
 ## 🧡 IndieWeb Projects
 
