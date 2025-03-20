@@ -41,10 +41,6 @@ flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.at
 - [nasa-apod](https://github.com/jgarber623/nasa-apod) – A fuller feed of content from NASA's Astronomy Picture of the Day website.
 - [nasa-iotd](https://github.com/jgarber623/nasa-iotd) – A feed of content from NASA's Image of the Day website.
 
-### 🛠️ Reusable Configuration and Templates
-
-- **Node.js:** [stylelint-config](https://github.com/jgarber623/stylelint-config), [stylelint-config-scss](https://github.com/jgarber623/stylelint-config-scss)
-
 ## 🧡 IndieWeb Projects
 
 I’ve been involved with the [IndieWeb](https://indieweb.org) community since 2013. In that time, I’ve created (or contributed to) a few websites and tools.
