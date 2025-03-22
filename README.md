@@ -1,5 +1,5 @@
 > [!NOTE]
-> I'm currently moving much of my work to [Codeberg](https://codeberg.org). If there's a repository you were looking for here that's no longer available, try [codeberg.org/jgarber](https://codeberg.org/jgarber).
+> I'm currently moving much of my work to [Codeberg](https://codeberg.org). If there's a repository you're looking for that's no longer available, try [codeberg.org/jgarber](https://codeberg.org/jgarber).
 
 ## 🛠 Projects
 
