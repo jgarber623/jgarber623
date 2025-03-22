@@ -22,13 +22,6 @@
 - [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – Process CSS files with PostCSS.
 - [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – Process SCSS files with Dart Sass.
 
-### 📦 JavaScript
-
-- [CashCash](https://github.com/jgarber623/CashCash) – A very small DOM library inspired by jQuery.
-- [RadioRadio](https://github.com/jgarber623/RadioRadio) – A very small JavaScript PubSub library.
-- [RouterRouter](https://github.com/jgarber623/RouterRouter) – A very small JavaScript routing library extracted from Backbone’s Router.
-- [TemplateTemplate](https://github.com/jgarber623/TemplateTemplate) – A very small JavaScript `<template>` manipulation library.
-
 ### 🌎 Websites
 
 - [atom-editor.cc](https://github.com/atom-editor-cc/atom-editor.cc) and [
