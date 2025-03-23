@@ -16,13 +16,6 @@
 - [&lt;remote-template&gt;](https://github.com/jgarber623/remote-template) – Fetch a URL and append the response to a `<template>`.
 - [&lt;under-construction&gt;](https://github.com/jgarber623/under-construction) – Generate OSHA-compliant barricade tape.
 
-### 🎈 Eleventy
-
-- [eleventy-plugin-liquid](https://github.com/jgarber623/eleventy-plugin-liquid) – Configure the LiquidJS template language.
-- [eleventy-plugin-markdown](https://github.com/jgarber623/eleventy-plugin-markdown) – Process Markdown files with markdown-it.
-- [eleventy-plugin-postcss](https://github.com/jgarber623/eleventy-plugin-postcss) – Process CSS files with PostCSS.
-- [eleventy-plugin-sass](https://github.com/jgarber623/eleventy-plugin-sass) – Process SCSS files with Dart Sass.
-
 ### 🌎 Websites
 
 - [atom-editor.cc](https://github.com/atom-editor-cc/atom-editor.cc) and [
