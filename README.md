@@ -12,9 +12,7 @@
 ### 🧩 Web Components
 
 - [&lt;aria-collapsible&gt;](https://github.com/jgarber623/aria-collapsible) – Generate progressively-enhanced collapsible regions using ARIA States and Properties.
-- [&lt;bandcamp-player&gt;](https://github.com/jgarber623/bandcamp-player) – Generate a Bandcamp embedded player.
 - [&lt;remote-template&gt;](https://github.com/jgarber623/remote-template) – Fetch a URL and append the response to a `<template>`.
-- [&lt;under-construction&gt;](https://github.com/jgarber623/under-construction) – Generate OSHA-compliant barricade tape.
 
 ### 🌎 Websites
 
