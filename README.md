@@ -12,7 +12,6 @@
 ### 🧩 Web Components
 
 - [&lt;aria-collapsible&gt;](https://github.com/jgarber623/aria-collapsible) – Generate progressively-enhanced collapsible regions using ARIA States and Properties.
-- [&lt;remote-template&gt;](https://github.com/jgarber623/remote-template) – Fetch a URL and append the response to a `<template>`.
 
 ### 🌎 Websites
 
