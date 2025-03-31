@@ -9,10 +9,6 @@
 - [nokogiri-html-ext](https://github.com/jgarber623/nokogiri-html-ext) – Extend Nokogiri with several useful HTML-centric features.
 - [sprockets-sass_embedded](https://github.com/jgarber623/sprockets-sass_embedded) – Process and compress Sass files using Sprockets 4 and Embedded Dart Sass.
 
-### 🧩 Web Components
-
-- [&lt;aria-collapsible&gt;](https://github.com/jgarber623/aria-collapsible) – Generate progressively-enhanced collapsible regions using ARIA States and Properties.
-
 ### 🌎 Websites
 
 - [atom-editor.cc](https://github.com/atom-editor-cc/atom-editor.cc) and [
