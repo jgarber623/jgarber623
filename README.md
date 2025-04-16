@@ -6,7 +6,6 @@
 ### 💎 Ruby Gems
 
 - [link-header-parser-ruby](https://github.com/jgarber623/link-header-parser-ruby) – Parse HTTP Link headers.
-- [nokogiri-html-ext](https://github.com/jgarber623/nokogiri-html-ext) – Extend Nokogiri with several useful HTML-centric features.
 - [sprockets-sass_embedded](https://github.com/jgarber623/sprockets-sass_embedded) – Process and compress Sass files using Sprockets 4 and Embedded Dart Sass.
 
 ### 🌎 Websites
