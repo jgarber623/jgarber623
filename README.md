@@ -3,10 +3,6 @@
 
 ## 🛠 Projects
 
-### 💎 Ruby Gems
-
-- [link-header-parser-ruby](https://github.com/jgarber623/link-header-parser-ruby) – Parse HTTP Link headers.
-
 ### 🌎 Websites
 
 - [atom-editor.cc](https://github.com/atom-editor-cc/atom-editor.cc) and [
