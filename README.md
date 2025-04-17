@@ -25,7 +25,6 @@ I’ve been involved with the [IndieWeb](https://indieweb.org) community since 2
 
 - [indieweb-endpoints-ruby](https://github.com/indieweb/indieweb-endpoints-ruby) – Discover a URL’s IndieAuth, Micropub, Microsub, and Webmention endpoints.
 - [MicroMicro](https://github.com/jgarber623/micromicro) – Extract microformats2-encoded data from HTML documents.
-- [webmention-cli](https://github.com/jgarber623/webmention-cli) – A command-line interface for Webmention written in Ruby.
 - [webmention-client-ruby](https://github.com/indieweb/webmention-client-ruby) – Send and verify Webmention notifications.
 
 ### 🌎 Websites
