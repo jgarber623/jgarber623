@@ -3,11 +3,6 @@
 
 ## 🛠 Projects
 
-### 🌎 Websites
-
-- [atom-editor.cc](https://github.com/atom-editor-cc/atom-editor.cc) and [
-flight-manual.atom-editor.cc](https://github.com/atom-editor-cc/flight-manual.atom-editor.cc) – Mirrors of the defunct Atom promotional and documentation websites.
-
 ### 📡 Feeds
 
 - [nasa-apod](https://github.com/jgarber623/nasa-apod) – A fuller feed of content from NASA's Astronomy Picture of the Day website.
