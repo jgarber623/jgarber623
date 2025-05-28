@@ -3,8 +3,6 @@
 >
 > [![Codeberg](https://img.shields.io/badge/find_me_on_codeberg-2185d0?labelColor=555&logo=codeberg&logoColor=fff&style=for-the-badge)](https://codeberg.org/jgarber)
 
-## 🛠 Projects
-
 ## 🧡 IndieWeb Projects
 
 I’ve been involved with the [IndieWeb](https://indieweb.org) community since 2013. In that time, I’ve created (or contributed to) a few websites and tools.
