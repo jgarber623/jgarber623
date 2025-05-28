@@ -5,11 +5,6 @@
 
 ## 🛠 Projects
 
-### 📡 Feeds
-
-- [nasa-apod](https://github.com/jgarber623/nasa-apod) – A fuller feed of content from NASA's Astronomy Picture of the Day website.
-- [nasa-iotd](https://github.com/jgarber623/nasa-iotd) – A feed of content from NASA's Image of the Day website.
-
 ## 🧡 IndieWeb Projects
 
 I’ve been involved with the [IndieWeb](https://indieweb.org) community since 2013. In that time, I’ve created (or contributed to) a few websites and tools.
